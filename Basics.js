@@ -6,6 +6,7 @@ function findSecondLargestNumber(arr) {
 }
 
 console.log(findSecondLargestNumber([3, 8, 1, 5, 10])); // Output: 8
+
 2.Check for Anagrams:
 
 function areAnagrams(str1, str2) {
